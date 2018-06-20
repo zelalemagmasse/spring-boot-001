@@ -1,0 +1,68 @@
+/*body {*/
+    /*background-image: url("image/foodRece.jpg");*/
+/*}*/
+.wrapper {
+    width: 100%;
+    background-color: lightcyan;
+}
+
+img {
+    background-image: url("../image/foodRece.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+#text {
+    z-index:100;
+    position:absolute;
+    color:green;
+    font-size:100px;
+    font-weight:bold;
+    left:150px;
+    top:350px;
+}
+.bg {
+    /* The image used */
+    background-image: url("../../image/foodRece.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+jumbotron-fluid
+{
+    background: url("../image/foodRece.jpg");
+    background-position:center;
+    color:white;
+}
+
+.nav-link{
+    font-family: 'Dancing Script', cursive;
+}
+.h1 {
+    font-family: 'Norican', cursive;
+}
+.direction{
+    font-family: 'Anton', sans-serif;
+}
+.menuList {
+height: 200px;
+    width: 200px;
+}
+.jumbotron {
+
+    background-color: transparent;
+}
+.footer-images img{
+    vertical-align:bottom;
+    border:0;
+}
+
+
